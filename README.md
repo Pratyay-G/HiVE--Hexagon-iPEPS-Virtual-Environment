@@ -83,7 +83,7 @@ distribution.
 ## Citation
 
 Cite the associated publication when using HiVE or its hexagonal CTMRG
-implementation in scientific work:
+implementation in scientific work (to be updated):
 
 > 【FINAL AUTHOR LIST】, *【FINAL PUBLICATION TITLE】*,
 > 【JOURNAL, VOLUME, PAGES AND YEAR OR ARXIV IDENTIFIER】,
