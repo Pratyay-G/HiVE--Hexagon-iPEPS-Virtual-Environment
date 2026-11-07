@@ -1,0 +1,3 @@
+numpy<3,>=2.1
+opt_einsum<4,>=3.4
+torch<3,>=2.5

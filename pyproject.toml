@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=77.0.3"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "hive-ipeps"
+version = "1010.1011.0"
+description = "Hexagon iPEPS Virtual Environment for the honeycomb Heisenberg model"
+readme = "README.md"
+requires-python = ">=3.11"
+license = "MIT"
+license-files = ["LICENSE"]
+authors = [
+    {name = "Chengzhi Ye"},
+    {name = "Pratyay Ghosh", email = "pratyay.ghosh@epfl.ch"},
+]
+dynamic = ["dependencies"]
+
+# 【PUBLIC REPOSITORY URL】 Add [project.urls] after the repository is created.
+
+[tool.setuptools]
+packages = ["hive_ipeps"]
+
+[tool.setuptools.dynamic]
+dependencies = {file = ["requirements.txt"]}

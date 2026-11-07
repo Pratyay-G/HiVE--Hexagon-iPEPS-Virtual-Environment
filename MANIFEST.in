@@ -1,0 +1,3 @@
+include logo.png
+recursive-include examples *.py *.md *.npz
+recursive-include tests *.py
