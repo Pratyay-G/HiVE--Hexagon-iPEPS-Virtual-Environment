@@ -56,7 +56,10 @@ Chengzhi Ye and Pratyay Ghosh.
 
 Developed at the
 [Chair of Condensed Matter Theory (CTMC), EPFL](https://www.epfl.ch/labs/ctmc/)
+
 Contact: [pratyay.ghosh@epfl.ch](mailto:pratyay.ghosh@epfl.ch).
+
+Contact: [chengzhi.ye@epfl.ch](mailto:chengzhi.ye@epfl.ch).
 
 The software and its accompanying documentation in this directory are
 distributed under the [MIT License](LICENSE), copyright 2026 Chengzhi Ye
@@ -71,7 +74,7 @@ distribution.
 | --- | --- |
 | Distribution name | `hive-ipeps`; Python import: `hive_ipeps` |
 | Version | `1010.1011.0` |
-| Public contact | `pratyay.ghosh@epfl.ch` |
+| Public contact | `chengzhi.ye@epfl.ch` `pratyay.ghosh@epfl.ch` |
 | Source repository | 【TO BE CREATED】 |
 | Chengzhi Ye ORCID | [0009-0004-0190-1625](https://orcid.org/0009-0004-0190-1625) |
 | Pratyay Ghosh ORCID | [0000-0001-8192-3963](https://orcid.org/0000-0001-8192-3963) |
