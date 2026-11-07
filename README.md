@@ -52,12 +52,10 @@ entropies use opposite full CTM boundaries for all three ansatze.
 
 ## Authors and license
 
-Chengzhi Ye and Pratyay Ghosh. Developed at the
-[Chair of Condensed Matter Theory (CTMC), EPFL](https://www.epfl.ch/labs/ctmc/),
-led by [Prof. Frédéric Mila](https://www.epfl.ch/labs/ctmc/prof-frederic-mila/),
-under the supervision of
-[Pratyay Ghosh](https://people.epfl.ch/pratyay.ghosh?lang=en),
-Scientist at CTMC. Contact: [pratyay.ghosh@epfl.ch](mailto:pratyay.ghosh@epfl.ch).
+Chengzhi Ye and Pratyay Ghosh. 
+Developed at the
+[Chair of Condensed Matter Theory (CTMC), EPFL](https://www.epfl.ch/labs/ctmc/)
+Contact: [pratyay.ghosh@epfl.ch](mailto:pratyay.ghosh@epfl.ch).
 
 The software and its accompanying documentation in this directory are
 distributed under the [MIT License](LICENSE), copyright 2026 Chengzhi Ye
