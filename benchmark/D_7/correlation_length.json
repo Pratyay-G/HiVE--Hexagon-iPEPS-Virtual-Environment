@@ -1,0 +1,99 @@
+{
+  "D_bond": 7,
+  "chi": 77,
+  "dtype": "torch.float64",
+  "ctm": {
+    "converged_ab_within_budget": true,
+    "converged_ba_within_budget": false,
+    "convergence_mode": "both",
+    "energy_convergence_threshold": 2e-08,
+    "identity_init": true,
+    "internal_sentinel_max_steps": 71,
+    "max_steps": 70,
+    "steps_ab": 45,
+    "steps_ba": 71,
+    "sv_convergence_tolerance": 1e-07,
+    "svd_mode": "augmented"
+  },
+  "inverse_correlation_length": {
+    "aggregation": "lower=min, center=median, upper=max",
+    "center": 0.47913809001885493,
+    "definition": "ln(abs(lambda_1/lambda_2))",
+    "direction_values": {
+      "env1_ab_env3_ba": 0.47913809001885493,
+      "env2": 0.4791417625335321,
+      "env3_ab_env1_ba": 0.4791362207598113
+    },
+    "lower": 0.4791362207598113,
+    "lower_error": 1.869259043607574e-06,
+    "upper": 0.4791417625335321,
+    "upper_error": 3.672514677144356e-06
+  },
+  "correlation_length": 2.087080991537634,
+  "schema": "c3ctm_three_ordinary_correlation_lengths",
+  "schema_version": 6,
+  "transfer_network_schema": "three_geometric_straight_rows_ordinary_v6",
+  "ansatz": "3legSymmetrized1tensor",
+  "spectra": {
+    "env1_ab_env3_ba": {
+      "correlation_length": 2.087080991537634,
+      "correlation_length_unresolved": false,
+      "eigenvalues": [
+        {
+          "abs": 2.196965632169521e-06,
+          "imag": 0.0,
+          "real": 2.196965632169521e-06,
+          "relative_residual": 1.9954136790408e-15
+        },
+        {
+          "abs": 1.3606180706021537e-06,
+          "imag": 0.0,
+          "real": 1.3606180706021537e-06,
+          "relative_residual": 1.4445255490315672e-15
+        }
+      ],
+      "inverse_correlation_length": 0.47913809001885493,
+      "used_dense_solver": false
+    },
+    "env2": {
+      "correlation_length": 2.087064994527619,
+      "correlation_length_unresolved": false,
+      "eigenvalues": [
+        {
+          "abs": 2.197072843840995e-06,
+          "imag": 0.0,
+          "real": 2.197072843840995e-06,
+          "relative_residual": 1.6087242639178144e-15
+        },
+        {
+          "abs": 1.3606794714838116e-06,
+          "imag": 0.0,
+          "real": 1.3606794714838116e-06,
+          "relative_residual": 1.0444612260147205e-15
+        }
+      ],
+      "inverse_correlation_length": 0.4791417625335321,
+      "used_dense_solver": false
+    },
+    "env3_ab_env1_ba": {
+      "correlation_length": 2.0870891338880746,
+      "correlation_length_unresolved": false,
+      "eigenvalues": [
+        {
+          "abs": 2.1968525260086982e-06,
+          "imag": 0.0,
+          "real": 2.1968525260086982e-06,
+          "relative_residual": 1.4566995771436213e-15
+        },
+        {
+          "abs": 1.3605505652578526e-06,
+          "imag": 0.0,
+          "real": 1.3605505652578526e-06,
+          "relative_residual": 1.3936659858324853e-15
+        }
+      ],
+      "inverse_correlation_length": 0.4791362207598113,
+      "used_dense_solver": false
+    }
+  }
+}

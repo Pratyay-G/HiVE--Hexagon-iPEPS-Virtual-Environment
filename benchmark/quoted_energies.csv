@@ -1,0 +1,17 @@
+source,D,E_per_site,sector,location
+Naumann2024,2,-0.537600,coarse-grained VU,Figure 29 table
+Naumann2024,3,-0.541145,coarse-grained VU,Figure 29 table
+Naumann2024,4,-0.544159,coarse-grained VU,Figure 29 table
+Naumann2024,5,-0.544474,coarse-grained VU,Figure 29 table
+Naumann2024,6,-0.544536,coarse-grained VU,Figure 29 table
+Naumann2024,7,-0.544543,coarse-grained VU,Figure 29 table
+YangCorboz2025,3,-0.53986093,0;0;2,Table I
+YangCorboz2025,4,-0.54393504,-2;0;0;2,Table I
+YangCorboz2025,5,-0.54447430,-2;0;0;2;2,Table I
+YangCorboz2025,6,-0.54449300,-2;0;0;0;2;2,Table I
+YangCorboz2025,6,-0.54454394,-2;-2;0;0;2;2,Table I
+YangCorboz2025,7,-0.54451062,-2;0;0;0;2;2;2,Table I
+YangCorboz2025,7,-0.54456716,-2;-2;0;0;0;2;2,Table I
+YangCorboz2025,7,-0.54456196,-2;-2;0;0;2;2;4,Table I
+YangCorboz2025,8,-0.54457409,-2;-2;0;0;0;0;2;2,Table I
+YangCorboz2025,8,-0.54458031,-2;-2;0;0;0;2;2;2,Table I

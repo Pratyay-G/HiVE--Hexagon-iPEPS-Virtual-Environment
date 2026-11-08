@@ -1,0 +1,31 @@
+{
+  "ansatz": "3legSymmetrized1tensor",
+  "spin": 0.5,
+  "J1": 1.0,
+  "J2": 0.0,
+  "h": 0.0,
+  "D": 7,
+  "chi": 77,
+  "tensor_axes": [
+    "virtual_1",
+    "virtual_2",
+    "virtual_3",
+    "spin"
+  ],
+  "tensor_shape": [
+    7,
+    7,
+    7,
+    2
+  ],
+  "dtype": "float64",
+  "tensor_file": "tensor.npz",
+  "tensor_sha256": "3356a5ecfa282639f025cb4c0e42472f096731592ee2c97f1339a43fe8a5a606",
+  "checkpoint_sha256": "af38e217355290ab8343cc9bbc0e5c8475e839d41fec8f43e3b1fa3b55757400",
+  "observable_sha256": "f825904adbc308f984936ba1db401505df62c417ec6003e4d018f667c2587215",
+  "correlation_length_source_sha256": "4e9a214ca646d26811080ce631950a672a94dbc8c4011231e0055b0dd85714ee",
+  "lookahead_chi": [
+    84
+  ],
+  "energy_comparison": true
+}

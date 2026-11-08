@@ -1,0 +1,28 @@
+# Repository publication style, scaled for an exact 3.375-inch PRB column.
+text.usetex : True
+text.latex.preamble : \usepackage{mathtools,amssymb,physics,dsfont}\DeclareMathAlphabet{\mathcal}{OMS}{cmsy}{m}{n}\DeclareMathSizes{9.5}{9.5}{9.2}{9.2}\DeclareMathSizes{10}{10}{9.2}{9.2}
+font.family : Times
+font.serif : Mathtime Pro
+font.size : 10
+axes.titlesize : 10
+axes.labelsize : 10
+xtick.labelsize : 10
+ytick.labelsize : 10
+legend.fontsize : 10
+legend.frameon : False
+axes.linewidth : 0.8
+lines.linewidth : 1.0
+xtick.major.size : 3.5
+ytick.major.size : 3.5
+xtick.major.width : 0.8
+ytick.major.width : 0.8
+xtick.minor.size : 2
+ytick.minor.size : 2
+xtick.minor.width : 0.6
+ytick.minor.width : 0.6
+xtick.direction : in
+ytick.direction : in
+pdf.fonttype : 42
+savefig.dpi : 300
+savefig.bbox : tight
+savefig.pad_inches : 0.025
