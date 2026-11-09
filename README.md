@@ -1,4 +1,4 @@
-# HiVE: Hexagon iPEPS Virtual Environment
+# HiVE: Hexagon iPEPS with Virtual Environment
 
 ![HiVE](logo.png)
 
